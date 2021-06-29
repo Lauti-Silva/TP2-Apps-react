@@ -1,0 +1,16 @@
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-family: "Arial";
+  font-size: 2,5vw;
+  text-transform: uppercase;
+  color: white;
+}
+
+
+.pageTitle { 
+  color: white;
+  font-family: "Castellar";
+  font-size: 2,5vw;
+}
